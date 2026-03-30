@@ -1,0 +1,11 @@
+Date,Description,Withdrawal,Deposit,Amount,Type
+2026-03-20,Grocery Shopping,500,0,500,expense
+2026-03-20,Salary Credit,0,50000,50000,income
+2026-03-19,Electricity Bill,1200,0,1200,expense
+2026-03-19,Freelance Project,0,8000,8000,income
+2026-03-18,Movie Tickets,400,0,400,expense
+2026-03-18,Dinner at Restaurant,800,0,800,expense
+2026-03-17,Gym Membership,500,0,500,expense
+2026-03-17,Interest Income,0,150,150,income
+2026-03-16,Shopping Mall,2000,0,2000,expense
+2026-03-16,Bonus Received,0,5000,5000,income
