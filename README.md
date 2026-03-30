@@ -11,7 +11,6 @@ ExpenseTracker is a full-stack MERN application that demonstrates production-gra
 - 💼 Transaction management (create, read, delete)
 - 📊 Beautiful analytics dashboard with pie charts
 - 💡 Category-based expense breakdown
-- 🎨 Minimalist SaaS-style UI
 - ⚡ Real-time data synchronization
 - 📱 Responsive design (mobile, tablet, desktop)
 
@@ -643,9 +642,9 @@ This project demonstrates:
 
 ## 📝 Future Enhancements
 
-- [ ] Add transaction form on dashboard
+- [x] Add transaction form on dashboard
 - [ ] Implement advanced filtering
-- [ ] Add export to CSV/PDF
+- [ ] Add export to PDF
 - [ ] Email notifications for large expenses
 - [ ] Budget setting and alerts
 - [ ] Multi-currency support
